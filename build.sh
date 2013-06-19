@@ -12,4 +12,4 @@ cat $navi ./template/cfp.html $footer> html/cfp.html
 cat $navi ./template/important-dates.html $footer > html/important-dates.html
 cat $navi ./template/program-committee-begin.html ./data/chair.html \
     ./template/program-committee-end.html $footer > html/program-committee.html
-cat $navi ./template/submission.html $footer > html/submittion.html
+cat $navi ./template/submission.html $footer > html/submission.html
